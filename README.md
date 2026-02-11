@@ -169,7 +169,7 @@ CONNECT TO: <gameserver-ip>:<port>
 # 📁 Repository Layout
 
 ```
-light-furry-games-platform/
+game-platform/
 │
 ├── infra-base/                 # Base helm chart shared by all environments
 │
